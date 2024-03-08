@@ -1,8 +1,8 @@
 # Gamble Too: Young Money Boogaloo
 
 **Gamble Too: Young Money Boogaloo** je asi ne první simulátor gamblingu pro děti!
-
 <br>
+
 **HRA OBSAHUJE TYTO IKONECKÉ POSTAVY:**
 
 sedma Selma - přičte 7 peněz
