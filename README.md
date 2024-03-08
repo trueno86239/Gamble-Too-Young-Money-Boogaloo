@@ -11,6 +11,6 @@ jablko Jindra - přičte 5 peněz
 
 prapodivná palma - přičte nebo odečte 10 peněz
 
-kakanec Karel - buď resetuje počet penět
+kakanec Karel - buď resetuje počet peněz nebo odečte 20 peněz
 
 Péťa pytel - přičte 20 peněz
