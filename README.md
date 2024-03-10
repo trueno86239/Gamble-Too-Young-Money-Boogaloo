@@ -4,7 +4,7 @@
 <br>
 <br>
 **HRA OBSAHUJE TYTO IKONECKÉ POSTAVY:**
-
+<br>
 sedma Selma - přičte 7 peněz
 
 jablko Jindra - přičte 5 peněz
