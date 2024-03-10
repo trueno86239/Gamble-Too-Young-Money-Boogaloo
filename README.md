@@ -17,4 +17,6 @@ Péťa pytel - přičte 20 peněz
 <br>
 <br>
 **INSTALACE**
+
+
 Stačí stáhnout a exportovat hru
